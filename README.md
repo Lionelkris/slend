@@ -1,2 +1,0 @@
-# slend
-short posts forum
